@@ -1,5 +1,7 @@
 ## OmniDeck
 
+Welcome to OmniDeck. OmniDeck is a file sharing web application concept that aims to streamline the document viewing and reviewing process in both professional and academic settings. Here is a link to [google](https://google.com).
+
 You can use the [editor on GitHub](https://github.com/AJacobs15/OmniDeck/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
